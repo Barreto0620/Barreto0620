@@ -66,9 +66,10 @@
     <img alt="Linguagens mais usadas" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=10"/>
 </p>
 
+---
 <!-- Streak Stats -->
 <p align="center">
-    <img alt="Streak Stats" height="180px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true"/>
+    <img alt="Streak Stats" height="80px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
