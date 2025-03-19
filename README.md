@@ -32,9 +32,12 @@ Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Si
         />
     </a>
     <a href="https://www.linkedin.com/in/gabriel-barreto-oliveira/" target="_blank">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
     </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
 
