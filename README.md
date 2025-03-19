@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo  
+## 🌐 Conexões  
 
 <p align="left">
     <a href="https://github.com/Barreto0620?tab=repositories&sort=stargazers" target="_blank">
