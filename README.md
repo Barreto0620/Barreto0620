@@ -1,27 +1,30 @@
 <h1>
   <p align="center" style="color: white; font-size: 24px; font-weight: bold;">
-  Gabriel Barreto
+    Gabriel Barreto
   </p>
 </h1>
 
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Python%20Automation;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Web;Automação%20com%20Python;Acredite%20no%20processo!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
-
-
+### Sobre mim
 
 Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Sistemas e atualmente graduando em Sistemas para Internet. Com mais de dois anos de experiência como Analista de Suporte Técnico no setor hospitalar, desenvolvi habilidades em resolução de problemas, otimização de processos e suporte a sistemas críticos. Busco constantemente aprimorar meus conhecimentos em desenvolvimento web e automações, criando soluções inovadoras e eficientes para o dia a dia.
+
+---
+
+### 🌐 Conecte-se comigo
 
 <p align="left">
     <a href="https://github.com/Barreto0620?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Barreto0620?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Barreto0620?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/Barreto0620?tab=followers" target="_blank">
@@ -38,204 +41,45 @@ Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Si
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-
 </p>
-
 
 ---
 
-### 👩‍💻 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django"
-    title="Django" 
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Android Studio" 
-    title="Android Studio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="25px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Intellij" 
-    title="Intellij"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Quarkus" 
-    title="Quarkus"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Wordpress" 
-    title="Wordpress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
-/>
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-
-<img 
-    align="left" 
-    alt="Github Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Barreto0620&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-
+<p align="left">
+    <img title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img title="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+    <img title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+    <img title="Android Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
+    <img title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+    <img title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+    <img title="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+    <img title="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+    <img title="IntelliJ IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
+    <img title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    <img title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img title="Quarkus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg"/>
+    <img title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+    <img title="WordPress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"/>
 </p>
 
-<details> 
-  <summary><h2>📊 Estatísticas e Atividade</h2></summary>
+---
 
-  <h3>🔥 Estatísticas de Streak</h3>
+### 📊 Estatísticas do GitHub
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Veja suas estatísticas de sequência no GitHub" alt="Streak do Barreto0620" src="https://github-readme-streak-stats-eight.vercel.app/?user=Barreto0620&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
-  <h3>💻 Estatísticas do Perfil no GitHub</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Estatísticas do GitHub de Barreto0620" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Barreto0620&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Linguagens mais usadas por Barreto0620" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  </a>
-  <br/>
-
-  <b>Nota:</b> As linguagens listadas são baseadas apenas nos repositórios públicos e não indicam necessariamente seu nível de experiência ou habilidade.
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Gráfico de Atividade de Barreto0620" src="https://github-readme-activity-graph.vercel.app/graph/?username=Barreto0620&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-  </a>
-
-</details>
-
+<p align="left">
+    <img 
+        alt="Estatísticas do GitHub de Barreto0620" 
+        height="180px" 
+        src="https://github-readme-stats.vercel.app/api?username=Barreto0620&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+    <img 
+        alt="Linguagens mais usadas" 
+        height="180px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=10"
+    />
+</p>
