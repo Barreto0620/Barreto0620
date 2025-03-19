@@ -1,4 +1,8 @@
 <p align="center">
+  <strong style="font-size: 24px;">Gabriel Barreto</strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/GabrielBarreto">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Gabriel Barreto" />
   </a>
@@ -7,9 +11,10 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Python%20Automation;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Gabriel%20Barreto;Web%20Developer;Python%20Automation;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 
 
 Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Sistemas e atualmente cursando Sistemas para Internet. Com mais de dois anos de experiência como Analista de Suporte Técnico no setor hospitalar, desenvolvi habilidades em resolução de problemas, otimização de processos e suporte a sistemas críticos. Busco constantemente aprimorar meus conhecimentos em desenvolvimento web e automações, criando soluções inovadoras e eficientes para o dia a dia.
