@@ -17,25 +17,25 @@
 Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Sistemas e atualmente graduando em Sistemas para Internet. Com mais de dois anos de experiência como Analista de Suporte Técnico no setor hospitalar, desenvolvi habilidades em resolução de problemas, otimização de processos e suporte a sistemas críticos. Busco constantemente aprimorar meus conhecimentos em desenvolvimento web e automações, criando soluções inovadoras e eficientes para o dia a dia.
 
 <p align="left">
-    <a href="https://github.com/Barreto0620?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Barreto0620?tab=repositories&sort=stargazers" target="_blank">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Barreto0620?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Barreto0620?tab=followers">
+    <a href="https://github.com/Barreto0620?tab=followers" target="_blank">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Barreto0620?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-barreto-oliveira/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
