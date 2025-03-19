@@ -1,5 +1,5 @@
 <p align="center" style="color: white; font-size: 24px; font-weight: bold;">
-  Gabriel Barreto
+  <h1>Gabriel Barreto</h1>
 </p>
 
 <p align="center">
