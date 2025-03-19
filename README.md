@@ -14,7 +14,7 @@
 
 
 
-Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Sistemas e atualmente cursando Sistemas para Internet. Com mais de dois anos de experiência como Analista de Suporte Técnico no setor hospitalar, desenvolvi habilidades em resolução de problemas, otimização de processos e suporte a sistemas críticos. Busco constantemente aprimorar meus conhecimentos em desenvolvimento web e automações, criando soluções inovadoras e eficientes para o dia a dia.
+Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Sistemas e atualmente graduando em Sistemas para Internet. Com mais de dois anos de experiência como Analista de Suporte Técnico no setor hospitalar, desenvolvi habilidades em resolução de problemas, otimização de processos e suporte a sistemas críticos. Busco constantemente aprimorar meus conhecimentos em desenvolvimento web e automações, criando soluções inovadoras e eficientes para o dia a dia.
 
 <p align="left">
     <a href="https://github.com/Barreto0620?tab=repositories&sort=stargazers">
