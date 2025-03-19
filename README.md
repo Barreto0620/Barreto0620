@@ -1,6 +1,8 @@
-<p align="center" style="color: white; font-size: 24px; font-weight: bold;">
-  <h1>Gabriel Barreto</h1>
-</p>
+<h1>
+  <p align="center" style="color: white; font-size: 24px; font-weight: bold;">
+  Gabriel Barreto
+  </p>
+</h1>
 
 <p align="center">
   <!-- Typing SVG -->
