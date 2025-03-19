@@ -1,9 +1,14 @@
+<p align="center" style="color: white; font-size: 24px; font-weight: bold;">
+  Gabriel Barreto
+</p>
+
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Gabriel%20Barreto;Web%20Developer;Python%20Automation;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Python%20Automation;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 
 
 
