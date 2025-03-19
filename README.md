@@ -69,7 +69,7 @@
 ---
 <!-- Streak Stats -->
 <p align="center">
-    <img alt="Streak Stats" height="80px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true"/>
+    <img alt="Streak Stats" height="280px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
 
 ---
@@ -77,5 +77,5 @@
 ## 📈 Atividade no GitHub  
 
 <p align="center">
-    <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Barreto0620&theme=tokyonight&hide_border=true"/>
+    <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
