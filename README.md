@@ -24,7 +24,7 @@ Sou um entusiasta da tecnologia com formação técnica em Desenvolvimento de Si
 ---
 
 ### 👩‍💻 Linguagens e Tecnologias
-<br/>
+
 <img 
     align="left" 
     alt="HTML"
