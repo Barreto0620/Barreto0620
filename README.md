@@ -63,13 +63,13 @@
 
 <p align="center">
     <img alt="Estatísticas do GitHub de Barreto0620" height="180px" src="https://github-readme-stats.vercel.app/api?username=Barreto0620&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-    <img alt="Linguagens mais usadas" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=10"/>
+    <img alt="Linguagens mais usadas" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=10&include_all_commits=true&locale=pt-br"/>
 </p>
 
 ---
 <!-- Streak Stats -->
 <p align="center">
-    <img alt="Streak Stats" height="280px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br"/>
+    <img alt="Streak Stats" height="200px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true"/>
 </p>
 
 ---
