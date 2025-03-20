@@ -68,7 +68,7 @@
 
 ---
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Barreto0620&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Barreto0620&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 
 
 
