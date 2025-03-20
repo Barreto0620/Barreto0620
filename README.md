@@ -69,8 +69,9 @@
 ---
 <!-- Streak Stats -->
 <p align="center">
-    <img alt="Streak Stats" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Barreto0620&theme=tokyonight&hide_border=true"/>
+    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Barreto0620&show_icons=true&theme=tokyonight"/>
 </p>
+
 
 ---
 
