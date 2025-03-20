@@ -69,10 +69,8 @@
 ---
 <!-- Streak Stats -->
 <p align="center">
-    <img alt="Streak Stats" height="200px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&cache_seconds=86400"/>
+    <img alt="Streak Stats" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Barreto0620&theme=tokyonight&hide_border=true"/>
 </p>
-
-
 
 ---
 
