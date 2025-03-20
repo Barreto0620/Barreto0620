@@ -68,9 +68,10 @@
 
 ---
 <!-- Streak Stats -->
-# Meu Perfil no GitHub
+<p align="center">
+    <img alt="Streak Stats" height="200px" src="https://streak-stats.demolab.com?user=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true&cache_seconds=86400"/>
+</p>
 
-![Streak Stats](https://streak-stats.demolab.com?user=Barreto0620)
 
 
 ---
