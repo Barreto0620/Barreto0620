@@ -68,9 +68,7 @@
 
 ---
 <!-- Streak Stats -->
-<p align="center">
-    <img alt="Streak Stats" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Barreto0620&theme=tokyonight&hide_border=true"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Barreto0620&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 
 
