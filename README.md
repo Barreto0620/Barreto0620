@@ -65,7 +65,7 @@
     <img alt="Estatísticas do GitHub de Barreto0620" height="180px" src="https://github-readme-stats.vercel.app/api?username=Barreto0620&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
     <img alt="Linguagens mais usadas" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barreto0620&theme=tokyonight&layout=compact&custom_title=Principais%20Tecnologias&langs_count=10&include_all_commits=true&locale=pt-br"/>
 </p>
----
+
 <!-- Streak Stats -->
 
 <p align="center">
@@ -73,10 +73,6 @@
     <img src="https://streak-stats.demolab.com?user=Barreto0620&theme=dark&locale=pt_BR&include_all_commits=true" alt="GitHub Streak" />
   </a>
 </p>
-
----
-
-## 📈 Atividade no GitHub  
 
 <p align="center">
     <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Barreto0620&theme=tokyonight&hide_border=true&locale=pt-br"/>
