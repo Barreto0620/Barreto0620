@@ -15,7 +15,7 @@ Atuo no desenvolvimento de soluções web e automações, com foco em eficiênci
 
 Possuo formação técnica em Desenvolvimento de Sistemas e atualmente sou graduando em Sistemas para Internet, além de diversos cursos complementares ao longo da minha trajetória na área de tecnologia.
 
-Tenho mais de 3 anos de experiência como Analista de T.I. no setor hospitalar, atuando diretamente com sistemas críticos, suporte técnico especializado, resolução de incidentes e otimização de fluxos operacionais, sempre prezando por estabilidade, segurança e eficiência dos ambientes.
+Tenho mais de 4 anos de experiência como Analista de T.I. no setor hospitalar, atuando diretamente com sistemas críticos, suporte técnico especializado, resolução de incidentes e otimização de fluxos operacionais, sempre prezando por estabilidade, segurança e eficiência dos ambientes.
 
 ---
 
