@@ -5,21 +5,17 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Python%20Automation;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Python%20Automation;Web%20Scraping;Believe%20in%20the%20process!&font=Fira%20Code&center=true&width=500&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim  
+Atuo no desenvolvimento de soluções web e automações, com foco em eficiência, qualidade técnica e melhoria contínua de processos. Busco constantemente evoluir minhas habilidades e aplicar tecnologia de forma prática e estratégica.
 
-💻 Busco constantemente aprimorar meus conhecimentos em **desenvolvimento web e automações**, criando **soluções inovadoras e eficientes**.  
+Possuo formação técnica em Desenvolvimento de Sistemas e atualmente sou graduando em Sistemas para Internet, além de diversos cursos complementares ao longo da minha trajetória na área de tecnologia.
 
-🚀 Tenho formação técnica em **Desenvolvimento de Sistemas** e atualmente graduando em **Sistemas para Internet**, sem dizer nos cursos concluídos na minha trajetória tecnologica.  
-
-📚 Formado em curso técnico **Analise e Desenvolvimento de Sistemas**, atualmente graduando em **Sistemas para Internet**.  
-
-🏥 Tenho mais de **3 anos de experiência como Analista de T.I.** no setor hospitalar — onde desenvolvi habilidades em **suporte a sistemas críticos**, **resolução de problemas** e **otimização de processos**.
+Tenho mais de 3 anos de experiência como Analista de T.I. no setor hospitalar, atuando diretamente com sistemas críticos, suporte técnico especializado, resolução de incidentes e otimização de fluxos operacionais, sempre prezando por estabilidade, segurança e eficiência dos ambientes.
 
 ---
 
